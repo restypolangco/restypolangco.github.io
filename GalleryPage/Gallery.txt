@@ -1,0 +1,35 @@
+<html>
+<head>
+<title></title>
+</head>
+<style type="text/css">
+	body{
+	background-color: gray;
+	padding: 10px;
+	
+} 
+	p{
+	font-family: harrington;
+	font-size: 135%;	
+}
+	li{
+	display: inline;
+        margin-right: 50px;
+	font-family: castellar;
+	font-size: 140%;
+
+}
+</style>
+<body>
+<h1><center><img src="images/rlogo.jpg" alt="Logo 1" style="width:154px;height:178px;"></center></h1>
+<ol>
+<center>
+<li><b><font color="white">About</font></b></li>
+    <li><b><font color="white">Hobbies</font></b></li>
+<li><b><font color="white">Gallery</font></b></li>
+<li><b><font color="white">Contact</font></b></li>
+</center>
+</ol>
+<br/>
+</body>
+</html>
